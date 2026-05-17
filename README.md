@@ -32,4 +32,7 @@ As per the requirements, the repository includes 3 screenshots demonstrating the
 1. `center.jpg` - Icon detected in the center of the screen.
 2. `top_right.jpg` - Icon detected in the top-right area.
 3. `bottom_left.png` - Icon detected in the bottom-left area (demonstrating successful UI interaction and text entry).
+
+## Demo Video 🎥
 ```
+https://youtu.be/7HyX1CosyhY
